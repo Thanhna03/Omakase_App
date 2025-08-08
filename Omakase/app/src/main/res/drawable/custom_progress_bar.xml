@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background của ProgressBar -->
+    <item android:id="@android:id/background">
+        <shape android:shape="rectangle">
+            <solid android:color="#D3D3D3"/>  <!-- Màu nền (xám nhạt) -->
+            <corners android:radius="10dp"/>  <!-- Bo tròn góc -->
+        </shape>
+    </item>
+
+    <!-- Tiến trình đã tải -->
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape android:shape="rectangle">
+                <solid android:color="#FF8C69"/>  <!-- Màu tiến trình (Cam) -->
+                <corners android:radius="10dp"/>
+            </shape>
+        </clip>
+    </item>
+</layer-list>

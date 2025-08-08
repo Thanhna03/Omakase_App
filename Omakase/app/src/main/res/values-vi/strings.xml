@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Omakase</string>
+    <string name="register_title">Đăng Ký</string>
+    <string name="email_hint">Email</string>
+    <string name="username_hint">Tên đăng nhập</string>
+    <string name="password_hint">Mật khẩu</string>
+    <string name="confirm_password_hint">Xác nhận mật khẩu</string>
+    <string name="register_button">Đăng Ký</string>
+    <string name="change_language_vi">VI</string>
+    <string name="change_language_en">EN</string>
+    <string name="load_msg">Đang tải...</string>
+    <string name="have_account_question">Bạn đã có tài khoản? Đăng nhập</string>
+<!--    <string name="login_w_gg">Đăng nhập với tài khoản Google</string>-->
+</resources>

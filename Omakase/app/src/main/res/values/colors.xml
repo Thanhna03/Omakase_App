@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#FF8C69</color>  <!-- Màu cam nhạt -->
+    <color name="backgroundColor">#FFFFFF</color>  <!-- Màu trắng -->
+    <color name="accentColor">#8B4513</color>  <!-- Màu nâu đất -->
+    <color name="ctaColor">#8B0000</color>  <!-- Màu đỏ rượu -->
+    <color name="highlightColor">#FFD700</color>  <!-- Màu vàng nhạt -->
+</resources>

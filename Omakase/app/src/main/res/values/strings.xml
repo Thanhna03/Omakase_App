@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Omakase</string>
+    <string name="register_title" />
+    <string name="email_hint"></string>
+    <string name="username_hint"></string>
+    <string name="password_hint"></string>
+    <string name="confirm_password_hint"></string>
+    <string name="register_button"></string>
+    <string name="change_language_vi">VI</string>
+    <string name="change_language_en">EN</string>
+    <string name="load_msg"></string>
+    <string name="have_account_question"></string>
+    <strting name="login_w_gg"></strting>
+</resources>

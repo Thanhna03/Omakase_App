@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Omakase</string>
+    <string name="register_title">Sign In</string>
+    <string name="email_hint">Email</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="register_button">Sign In</string>
+    <string name="change_language_vi">VI</string>
+    <string name="change_language_en">EN</string>
+    <string name="load_msg">Loading...</string>
+    <string name="have_account_question">Are you have account ? Log In</string>
+<!--    <string name="login_w_gg">Login with Google account</string>-->
+</resources>
